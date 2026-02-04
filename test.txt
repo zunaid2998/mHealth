@@ -1,2 +1,4 @@
 Hello worlds
 added a new line in test
+
+Test squashing
